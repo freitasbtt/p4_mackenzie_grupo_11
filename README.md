@@ -68,7 +68,7 @@ Os microdados são públicos e podem ser obtidos na página oficial do Ministér
 - Previsões representam tendências condicionadas ao histórico disponível e não garantem eventos econômicos futuros.
 - Mudanças de metodologia e revisões na fonte podem afetar a comparabilidade entre períodos.
 
-## Estrutura sugerida do repositório
+## Estrutura do repositório
 
 ```text
 .
